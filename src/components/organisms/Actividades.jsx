@@ -4,7 +4,7 @@ const ActividadesEntregadas = () => {
   const [actividades, setActividades] = useState([
     {
       nombre: "Eddie Grajales Vidal",
-      titulo: "Algoritmos y control de flujo",
+      titulo: "Algoritmos y control de flujos",
       calificacion: "0/100",
       tipo: "PDF",
     },

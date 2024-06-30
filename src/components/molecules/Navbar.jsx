@@ -25,7 +25,7 @@ const Navbar = () => {
         {isOpen && (
           <div className="absolute top-full left-0 mt-2 flex flex-col space-y-2 bg-white border border-gray-300 p-4 shadow-md z-10 space-">
             <Button className="" onClick={() => handleNavigation('/')}>Grupos</Button>
-            <Button onClick={() => handleNavigation('/temarios')}>Temario</Button>
+            <Button onClick={() => handleNavigation('/temarios')}>Temarios</Button>
             <Button onClick={() => handleNavigation('/actividades')}>Actividades</Button>
             <Button onClick={() => handleNavigation('/contenido')}>Contenido</Button>
           </div>
