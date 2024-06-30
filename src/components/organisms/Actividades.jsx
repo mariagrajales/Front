@@ -9,8 +9,8 @@ const ActividadesEntregadas = () => {
       tipo: "PDF",
     },
     {
-      nombre: "Melanie Grajales Vidal",
-      titulo: "Investigación de la historia de la informática.",
+      nombre: "Melanie Grajales Vidal.",
+      titulo: "Investigación de la historia de la informática",
       calificacion: "0/100",
       tipo: "PDF",
     },
