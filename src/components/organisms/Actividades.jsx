@@ -10,7 +10,7 @@ const ActividadesEntregadas = () => {
     },
     {
       nombre: "Melanie Grajales Vidal",
-      titulo: "Investigación de la historia de la informática",
+      titulo: "Investigación de la historia de la informática.",
       calificacion: "0/100",
       tipo: "PDF",
     },
